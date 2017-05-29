@@ -10,7 +10,7 @@ Zahtevi:
         Odgovarajuce upustvo za instalaciju paketa moze se naci na linku: https://tkinter.unpythonic.net/wiki/How_to_install_Tkinter
 	Odgovarajuce upustvo za instalaciju programskog jezika moze se naci na linku: https://www.python.org/downloads/
  
-        Program (dve verzije) i prateci fajlovi se nalaze u zip fajlu pod nazivom "Pyraminx_TamaraMarcetic_MajaStojkovic" i zauzimaju 4,6 MB
+        Program (dve verzije) i prateci fajlovi se nalaze u zip fajlu pod nazivom "Pyraminx_TamaraMarcetic_MajaStojkovic" i zauzimaju 4,34 MB
 memorije
 
 
