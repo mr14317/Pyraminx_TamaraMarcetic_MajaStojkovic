@@ -1,8 +1,6 @@
 Pyraminx - seminarski rad iz predmeta programske paradigme, na trecoj godini R smera, na Matematickom fakultetu.
 
 
-Link ka git-u: !!! (dodati)
-
 
 Zahtevi:
 
